@@ -92,11 +92,11 @@ static const char *colorname[] = {
   "#4e5166", /* violet */
   "#33859e", /* cyan */
   "#99d1ce", /* base 6 */
-  "#11151c", /* base 1 */
+  "#0a3749", /* base 3 */
   "#d26937", /* orange */
   "#091f2e", /* base 2 */
   "#245361", /* base 4 */
-  "#0a3749", /* base 3 */
+  "#11151c", /* base 1 */
   "#888ca6", /* magenta */
   "#599caa", /* base 5 */
   "#d3ebe9", /* base 7 */
